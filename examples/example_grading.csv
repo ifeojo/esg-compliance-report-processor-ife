@@ -1,0 +1,326 @@
+﻿No,Category,Issue Title,Updated Grading,Resolution Window,Resolution Timeframe
+1,Outcome Indicators ,Meaningful Alertuction in H&S incidents over last 12 months e.g. Alertuction greater than 20%,,,
+2,Outcome Indicators ,Increase on H&S incidents over the last 12 months,,,
+3,Outcome Indicators ,Meaningful Alertuction in lost day work cases,,,
+4,Outcome Indicators ,Gender breakdown in management position reflects gender breakdown in total workforce ,,,
+5,Outcome Indicators ,More than 80% of workforce on open ended permanent contracts ,,,
+6,Outcome Indicators ,More than 80 % of workers on temporary contracts ,,,
+7,Outcome Indicators ,A well functioning greivance mechanism with 100% grievances responded to ,,,
+8,Outcome Indicators ,A well functioning greivance mechanism with 100% grievances resolved  ,,,
+9,Outcome Indicators ,Workers feel respected at work,,,
+10,Outcome Indicators ,Workers are generally satisfied that their rights are respected at the site,,,
+11,Outcome Indicators ,Workers report feeling safe in their work environment ,,,
+12,Outcome Indicators ,Workers report feeling unsafe in their work environment ,Caution,,
+13,Outcome Indicators ,Workers feel their pay meets their needs,,,
+14,Outcome Indicators ,Workers feel their pay does not meets their needs,,,
+15,Outcome Indicators ,Workers feel they have a stable income for the next year,,,
+16,Outcome Indicators ,Workers are satisfied about opportunities for development / promotion,,,
+17,Site's licenses & Certifications,Site does not have an up-to-date legally requiAlert business / factory licence.,Alert,60 days,Desktop
+18,Health & Safety Management,No management system in place to manage H&S requirements / minimum standards,Caution,,
+19,Health & Safety Management,There is no H&S policy in place,Optimal,,
+20,Health & Safety Management,No Health & Safety Manager in place ,Caution,,
+21,Health & Safety Management,"H&S Manager in place, but does not have the adequate training / experience / authority to manage H&S ",Optimal,,
+22,Health & Safety Management,No H&S representative / safety officer available on site,Caution,,
+23,Health & Safety Management,No H&S worker committee / H&S representatives in place,Alert,30 days,Follow Up
+24,Health & Safety Management,"H&S committee / H&S reps in place, but not effective e.g. do not meet regularly, function not known by all workers or outputs not recorded / communicated",Optimal,,
+25,Health & Safety Management,"H&S committee / H&S representatives in place, but no response / action from management or representatives not elected by workforce",Optimal,,
+26,Health & Safety Management,Well functioning H&S committee ,,,
+27,Health & Safety Management,Accurate H&S meeting minutes produced and communicated to workforce ,,,
+28,Health & Safety Management,No / inadequate H&S risk / hazard factors assessment conducted,Alert,30 days,Follow Up
+29,Health & Safety Management,H&S risk / hazard factors assessment conducted but missing crucial elements e.g. fire safety etc. ,Caution,,
+30,Health & Safety Management,H&S risk / hazard factors assessment conducted but missing minor elements,Optimal,,
+31,Health & Safety Management,H&S risk assessment conducted but records missing,Optimal,,
+32,Health & Safety Management,Comprehensive H&S Audit / risk assessment conducted for internal analysis & root cause corrective actions,,,
+33,Health & Safety Management,Failure to submit H&S audit to external party as per legal requirements e.g. government authority ,Alert,30 days,Follow Up
+34,Health & Safety Management,Site has internationally recognised H&S certification e.g. OHSAS 18000,,,
+35,Health & Safety Management,Regular Health & Safety inspections conducted,,,
+36,Health & Safety Management,No quality management system in place including anti-blade / anti-needle policy / scissors etc. ,Caution,,
+37,Health & Safety Management,Engagement / collaboration with local communities on H&S issues ,,,
+38,Health & Safety Management,Clear postings of emergency notices including pictures / languages for understanding where appropriate ,,,
+39,Health & Safety Training,No ongoing H&S training for all workers,Alert,30 days,Follow Up
+40,Health & Safety Training,Systemic lapses/ inadequate H&S training for all workers ,Caution,,
+41,Health & Safety Training,Isolated lapse of ongoing H&S training for workers,Optimal,,
+42,Health & Safety Training,Systemic incidents of missing records for general H&S training,Caution,,
+43,Health & Safety Training,Isolated incidents of missing records for general H&S training,Optimal,,
+44,Health & Safety Training,No H&S training for employees working in hazardous conditions e.g. chemicals / machinery etc. ,Alert,30 days,Follow Up
+45,Health & Safety Training,Systemic lapses / inadequate training for employees working in hazardous conditions e.g. chemicals / machinery etc. ,Caution,,
+46,Health & Safety Training,Isolated lapses in training for employees working in hazardous conditions e.g. chemicals / machinery etc. ,Optimal,,
+47,Health & Safety Training,Employees are provided with a H&S induction pack,,,
+48,Health & Safety Training,H&S video used for training,,,
+49,Health & Safety Training,No / inadequate H&S training for managers ,Caution,,
+50,Health & Safety Training,"No / inadequate H&S training for Health & Safety representatives, including training about their role",Caution,30 days,Follow Up
+51,Health & Safety Training,No training for first aiders,Alert,30 days,Follow Up
+52,Health & Safety Training,No / inadequate training for safe handling of loads e.g. manual handling training,Caution,,
+53,Health & Safety Training,Isolated incidents of lack of appropriate training for safe handling of loads e.g. manual handling training ,Optimal,,
+54,Health & Safety Training,Excellent trained fire protection team,,,
+55,Health & Safety Training,Workers are trained on medical issues such as HIV / AIDS,,,
+56,Fire Safety - Fire Fighting Equipment,No fire fighting equipment on site,Emergency,Immediate,
+57,Fire Safety - Fire Fighting Equipment,Locked fire fighting equipment ,Emergency,Immediate,
+58,Fire Safety - Fire Fighting Equipment,Blocked access to fire fighting equipment e.g. fire extinguishers ,Alert,30 days,Follow Up
+59,Fire Safety - Fire Fighting Equipment,"Inadequate fire fighting equipment e.g. bad condition, leaks or otherwise broken",Alert,30 days,Follow Up
+60,Fire Safety - Fire Fighting Equipment,Not enough fire fighting equipment for risk / size of building etc.,Alert,30 days,Follow Up
+61,Fire Safety - Fire Fighting Equipment,Fire extinguishers incorrectly installed e.g. incorrect height / placed on floor,Optimal,,
+62,Fire Safety - Fire Fighting Equipment,Fire extinguishers not inspected / checked regularly / out of date ,Caution,,
+63,Fire Safety - Fire Fighting Equipment,Inadequate hose reel installation and maintenance,Caution,,
+64,Fire Safety - Fire Fighting Equipment,No fire fighting equipment signage / labelling / instructions ,Caution,,
+65,Fire Safety - Fire Fighting Equipment,Signage / labelling available but inadequate e.g. incorrect language / not sufficient detail etc.,Optimal,,
+66,Fire Safety - Fire Fighting Equipment,No / inadequate / poorly maintained sprinkler system installed anywhere on site,Alert,30 days,Follow Up
+67,Fire Safety - Fire Fighting Equipment,Inadequate number of sprinkler systems for size of site / number of buildings,Caution,,
+68,Fire Safety - Fire Fighting Equipment,No extraction fans / extraction equipment ,Alert,30 days,Follow Up
+69,Fire Safety - Fire Fighting Equipment,Inadequate / poorly maintained extraction fans / extraction equipment ,Caution,,
+70,Fire Safety - Fire Fighting Equipment,No equipment to prevent explosions,Alert,30 days,Follow Up
+71,Fire Safety - Fire Fighting Equipment,Inadequate / poorly maintained equipment to prevent explosions,Caution,,
+72,Fire Safety - Fire alarms & Evacuation,No fire alarm / smoke detector or equivalent,Alert,Immediate,
+73,Fire Safety - Fire alarms & Evacuation,"Fire alarm / equivalent in place, but does not cover the whole site",Caution,30 days,Follow Up
+74,Fire Safety - Fire alarms & Evacuation,Access to fire alarm blocked / impeded,Alert,30 days,Follow Up
+75,Fire Safety - Fire alarms & Evacuation,Inadequate signage / instructions of fire alarm,Caution,,
+76,Fire Safety - Fire alarms & Evacuation,Fire alarm is not checked periodically,Caution,,
+77,Fire Safety - Fire alarms & Evacuation,Fire alarm in place but not functioning ,Alert,30 days,Follow Up
+78,Fire Safety - Fire exits,No fire exits at site including only one exit ,Emergency,Immediate,
+79,Fire Safety - Fire exits,"Some fire exits, but not enough for size of site / number of employees",Alert,30 days,Follow Up
+80,Fire Safety - Fire exits,"No / inadequate fire exits due to building design / construction e.g. width, fire doors opening inwards / incorrect direction of evacuation flow / sliding doors",Alert,30 days,Follow Up
+81,Fire Safety - Fire exits,Isolated incidents of locked fire exits,Alert,30 days,Follow Up
+82,Fire Safety - Fire exits,Systemic / all fire exits locked,Emergency,Immediate,
+83,Fire Safety - Fire exits,Systemic occurrence of blocked fire exits,Emergency,Immediate,
+84,Fire Safety - Fire exits,Isolated occurrence of blocked fire exits,Caution,,
+85,Fire Safety - Fire exits,Combustible / hazardous materials inadequately stoAlert / blocking fire exit,Alert,30 days,Follow Up
+86,Fire Safety - Fire exits,Combustible / hazardous materials inadequately stoAlert e.g. in the production area / stairwells,Caution,,
+87,Fire Safety - Fire exits,t,Alert,30 days,Follow Up
+88,Fire Safety - Fire exits,Inadequate/ poorly functioning emergency lighting,Caution,,
+89,Fire Safety - Fire exits,Emergency exit lights not connected to secondary power source ,Caution,,
+90,Fire Safety - Fire exits,Well managed fire exit systems including battery operated lights at all exits,,,
+91,Fire Safety - Fire alarms & Evacuation,No evacuation plan / emergency route / unclear signage including marking of fire assembly points,Alert,30 days,Follow Up
+92,Fire Safety - Fire alarms & Evacuation,Inadequate evacuation plan / emergency route / unclear signage including marking of fire assembly points,Caution,,
+93,Fire Safety - Fire alarms & Evacuation,No way to communicate between floors for multi-storey buildings ,Caution,,
+94,Fire Safety - Fire alarms & Evacuation,No or inadequate fire assembly point in place eg. too small for the number of employees / inaccessible / situated in a dangerous place e.g. side of a busy road etc. ,Caution,,
+95,Fire Safety - Fire alarms & Evacuation,No records for fire alarm testing,Caution,,
+96,Fire Safety - Fire alarms & Evacuation,Missing records of fire drills and evacuations,Caution,,
+97,Fire Safety - Fire alarms & Evacuation,Excellent fire drill systems maintained e.g. regular fire drills,,,
+98,Fire Safety - Fire alarms & Evacuation,Evacuation drills do not include all occupants of the building ,Caution,,
+99,Fire Safety - Fire alarms & Evacuation,Evacuation drills include all occupants of the building ,,,
+100,Fire Safety - Fire alarms & Evacuation,No fire drill since establishment of site,Alert,30 days,Follow Up
+101,Fire Safety - Fire alarms & Evacuation,Systemic lapses in fire drill since establishment of site,Caution,,
+102,Fire Safety - Fire alarms & Evacuation,Fire drill / evacuation did not cover all employees e.g. night shift / foreign workers,Caution,,
+103,Fire Safety - Fire alarms & Evacuation,Occasional lapses in fire evacuation drills ,Optimal,,
+104,Fire Safety - Electrical risk,Combustible / flammable materials stoAlert / blocking electrical equipment,Alert,30 days,Follow Up
+105,Fire Safety - Electrical risk,Isolated occurrence of incorrect / damaged insulation in electricals including burnt / damaged wiring and plugs ,Optimal,,
+106,Fire Safety - Electrical risk,Systemic occurrence of incorrect / damaged insulation in electricals including burnt / damaged wiring and plugs ,Alert,30 days,Follow Up
+107,Fire Safety - Electrical risk,No / inadequate PAT / electric safety testing / electrical safety risk assessment,Alert,30 days,Follow Up
+108,Fire Safety - Electrical risk,Blocked access to electricity panels,Caution,,
+109,Fire Safety - Electrical risk,Unsafe handling of electrical equipment e.g. no rubber mats in front of electricity panels ,Caution,,
+110,"Fire Safety - Licenses, Inspections & Training",Fire risk assessment not conducted,Alert,30 days,Follow Up
+111,"Fire Safety - Licenses, Inspections & Training",Fire licence / Fire inspection / Legal fire certificates not in place,Alert,30 days,Follow Up
+112,"Fire Safety - Licenses, Inspections & Training","Fire risk assessment in place, but no action taken",Caution,,
+113,"Fire Safety - Licenses, Inspections & Training",No fire safety committee ,Caution,,
+114,"Fire Safety - Licenses, Inspections & Training",Fire safety committee in place but inadequate,Optimal,,
+115,"Fire Safety - Licenses, Inspections & Training",Contact details for summoning emergency services not communicated or readily available e.g. not displayed,Caution,,
+116,"Fire Safety - Licenses, Inspections & Training",Contact lines for emergency services not functioning,Caution,,
+117,"Fire Safety - Licenses, Inspections & Training",No training for fire marshals ,Alert,30 days,Follow Up
+118,"Fire Safety - Licenses, Inspections & Training",Inadequate / systemic lapses in training for fire marshals ,Caution,,
+119,"Fire Safety - Licenses, Inspections & Training",Isolated lapses in training for fire marshals ,Optimal,,
+120,"Fire Safety - Licenses, Inspections & Training",No / insufficient number of fire marshals in place ,Alert,30 days,Follow Up
+121,"Fire Safety - Licenses, Inspections & Training",No / inadequate records for fire safety training / evacuation training etc.,Caution,,
+122,"Fire Safety - Licenses, Inspections & Training",Unmarked / incorrect labels / signage / instructions for electrics,Caution,,
+123,"Fire Safety - Licenses, Inspections & Training",Smoking occurs in prohibited / restricted areas including unrestricted smoking anywhere on site ,Caution,,
+124,"Fire Safety - Licenses, Inspections & Training","Production area and dormitory area together, creating potential fire risk ",Alert,30 days,Follow Up
+125,Chemicals,No MSDS obtained / available ,Caution,,
+126,Chemicals,MSDS is incomplete / inaccurate / not in worker language / not understood by workers ,Optimal,,
+127,Chemicals,Non-hazardous chemicals are stoAlert unlabelled or labelling is incorrect,Optimal,,
+128,Chemicals,Hazardous chemicals are stoAlert unlabelled or labelling is incorrect,Caution,,
+129,Chemicals,No / inadequate chemical risk assessment in place e.g. COSHH ,Caution,,
+130,Chemicals,Legally requiAlert chemical licence expiAlert / not in place including any reporting to government bodies on list of hazardous chemicals on site ,Alert,30 days,Follow Up
+131,Chemicals,"No / inadequate records / registration on distribution, handling and use of hazardous materials ",Caution,,
+132,Chemicals,Chemicals stoAlert without restricted access ,Caution,,
+133,Chemicals,No / inadequate explosion proof lighting where a legal requirement ,Alert,30 days,Follow Up
+134,Chemicals,"Hazardous chemicals stoAlert in inadequate containers (e.g. plastic food containers, soft drink bottles etc.)",Caution,30 days,Follow Up
+135,Chemicals,Inadequate storage of chemicals (e.g. not grounded / subject to light / inadequately secuAlert or otherwise inadequately kept) ,Caution,,
+136,Chemicals,No / inadequate separate storage area for hazardous chemicals (e.g. stoAlert on production floor etc.),Caution,,
+137,Chemicals,No / inadequate safety measures / anti-explosion measures for chemicals (e.g. no anti-leaking system / secondary container / unbunded),Caution,30 days,Follow Up
+138,Chemicals,No / inadequate spill kit provided for handling chemical spillage and leakage ,Caution,,
+139,Chemicals,No / inadequate eye wash / shower station in hazardous environments including chemical areas ,Caution,,
+140,Chemicals,Regular physical examination for eventual health risks ,,,
+141,Chemicals,No / inadequate hazardous chemicals emergency plan / emergency drill,Caution,,
+142,Chemicals,No / inadequate air quality test ,Caution,,
+143,Chemicals,Regular exposure to dangerous fumes / dust / dangerous gas levels in workplace ,Alert,30 days,Follow Up
+144,Chemicals,"Robust measures in place to mitigate workers' exposure to hazardous materials (ventilation systems, temperature controls, explosion-proof lighting)",,,
+145,Chemicals,No training for the handling of dangerous / hazardous materials including chemical handling training ,Alert,30 days,Follow Up
+146,Chemicals,No / inadequate records for disposal of hazardous chemicals ,Caution,,
+147,Chemicals,Excellent chemical management e.g. chemicals are fully listed correctly handled and stoAlert in a safe place ,,,
+148,Chemicals,No / inadequate systems for safe disposal of hazardous chemicals,Alert,30 days,Follow Up
+149,Chemicals,No licence / certificate in place to dispose of hazardous chemicals ,Alert,30 days,Follow Up
+150,Worker Health,No valid health license in place ,Caution,,
+151,Building/Site Maintenance,No / inadequate dust level survey,Optimal,,
+152,Building/Site Maintenance,No / inadequate noise assessment conducted,Caution,,
+153,Building/Site Maintenance,Inadequate electrical safety inspections conducted including on lighting,Optimal,,
+154,Building/Site Maintenance,Failure to comply with legal requirements for building electrical safety e.g. inspections,Alert,30 days,Follow Up
+155,Building/Site Maintenance,No or inadequate assessment / certificates / report / licence in place for structural safety of building including building stability certificate,Alert,30 days,Follow Up
+156,Building/Site Maintenance,Premises are structurally unsafe (e.g. major cracks observed),Emergency,Immediate,
+157,Building/Site Maintenance,Premises used for other functions (e.g. commercial or residential premises and therefore not safe),Alert,30 days,Follow Up
+158,Building/Site Maintenance,Premises require minor repairs that affect personal safety (e.g. missing handrails),Caution,,
+159,Building/Site Maintenance,Minor cracks observed in building ,Caution,,
+160,Building/Site Maintenance,Rooftop stores hazardous materials or operations ,Caution,,
+161,Building/Site Maintenance,Secondary exit not opposite other emergency exit,Optimal,,
+162,Building/Site Maintenance,Secondary exit not accessible through independent pathway,Optimal,,
+163,Building/Site Maintenance,Multi-story building does not have two vertical exit routes,Alert,30 days,Follow Up
+164,Building/Site Maintenance,Multi-story building does not have enclosed stairs         ,Alert,30 days,Follow Up
+165,Building/Site Maintenance,No or inadequate measures to ensure security at site (e.g. access control / security guards etc.),Caution,,
+166,Building/Site Maintenance,Inadequate measures to ensure security at site (e.g. access control / security guards etc.),Optimal,,
+167,Building/Site Maintenance,Temperature levels too high or too low at the site,Caution,,
+168,Building/Site Maintenance,No measurement / assessment of temperature levels ,Caution,,
+169,Building/Site Maintenance,No / inadequate ventilation in areas using hazardous chemicals ,Alert,30 days,Follow Up
+170,Building/Site Maintenance,Low level / inadequate lighting in all areas of the site including production area,Alert,30 days,Follow Up
+171,Building/Site Maintenance,Low level / inadequate lighting in parts of the site ,Caution,,
+172,Building/Site Maintenance,Evidence of hazardous asbestos present ,Alert,30 days,Follow Up
+173,Building/Site Maintenance,No asbestos assessment / survey conducted where requiAlert,Alert,30 days,Follow Up
+174,Building/Site Maintenance,No/inadequate pest control system,Caution,,
+175,Machinery,No / inadequate policy for on-going control management / inspection / maintenance of machinery,Caution,,
+176,Machinery,"No / inadequate certificates for inspections of machinery, or machines not registeAlert as requiAlert by law ",Alert,30 days,Follow Up
+177,Machinery,Lapses in inspections / maintenance for machinery used in production ,Caution,,
+178,Machinery,"Lapses in inspections / maintenance of machinery not used in production e.g. elevators, boilers, other pressure equipment ",Caution,,
+179,Machinery,No licence or inadequate experience / training of company / engineer providing machinery maintenance ,Alert,30 days,Follow Up
+180,Machinery,Systemic lapses / inadequate training of employees operating machinery / handling loads etc.,Alert,30 days,Follow Up
+181,Machinery,No training available for operators operating machinery / handling loads etc. ,Caution,,
+182,Machinery,No training for certain employees e.g. night shift / foreign workers / agency workers etc. ,Caution,,
+183,Machinery,Lack of appropriate equipment / machinery - creating a moderate risk to workers ,Caution,,
+184,Machinery,Lack of appropriate equipment / machinery - creating a serious risk to workers ,Alert,30 days,Follow Up
+185,Machinery,Safety functions on machinery not present / not functioning e.g. alarm / safety stop buttons etc. ,Alert,30 days,Follow Up
+186,Machinery,Control and access to machinery not adequately controlled e.g. panels left open / keys left in forklift etc. ,Caution,,
+187,Machinery,machines used on site constitute a serious danger to life or limb,Emergency,Immediate,
+188,Machinery,Certain machines used on site constitute a danger to life or limb,Alert,30 days,Follow Up
+189,Machinery,Minor repairs requiAlert to machinery,Optimal,,
+190,Machinery,Lack of eye or needle guards on sewing machines or belt / hand guards on machines generally,Optimal,,
+191,Machinery,Incidents of incorrect use of machinery constituting a minor risk,Optimal,,
+192,Machinery,Effective protective equipment available on all machines,,,
+193,Personal Protective Equipment/Clothing,No PPE is issued to any workers ,Alert,30 days,Follow Up
+194,Personal Protective Equipment/Clothing,"PPE provided, but inadequate condition or wrong type ",Caution,30 days,Follow Up
+195,Personal Protective Equipment/Clothing,PPE is provided but charged for ,Caution,30 days,Follow Up
+196,Personal Protective Equipment/Clothing,No / inadequate PPE provided for certain employees / agency workers / foreign / migrant workers / night shift etc. ,Alert,30 days,Follow Up
+197,Personal Protective Equipment/Clothing,No / inadequate training in how to use PPE,Caution,,
+198,Personal Protective Equipment/Clothing,PPE provided but isolated incidents of workers not using PPE ,Optimal,,
+199,Personal Protective Equipment/Clothing,PPE provided but systemic incidents of workers not using PPE ,Caution,,
+200,Personal Protective Equipment/Clothing,No / inadequate signage in high risk areas on usage of PPE e.g. importance of ear plugs for high noise or signage for use of PPE in chemical warehouse ,Caution,30 days,Follow Up
+201,Personal Protective Equipment/Clothing,PPE not adequately cleaned / maintained / stoAlert,Optimal,,
+202,Personal Protective Equipment/Clothing,Systematic occurrence of necessary working equipment for the job not provided (e.g. scissors),Caution,,
+203,Personal Protective Equipment/Clothing,Isolated occurrence of necessary working equipment for the job not provided (e.g. scissors),Optimal,,
+204,First Aid / Accidents,No recording of accidents ,Caution,,
+205,First Aid / Accidents,Inadequate recording of  accidents e.g. minor accidents / near misses not recorded / employee details not protected ,Optimal,,
+206,First Aid / Accidents,No written accident procedure in place ,Caution,,
+207,First Aid / Accidents,Adequate records for injuries / accidents but no analysis / root cause analysis / no action taken to remediate ,Optimal,,
+208,First Aid / Accidents,All accidents and near misses recorded and information used for managed Alertuction of occurrence ,,,
+209,First Aid / Accidents,Excellent first aid facilities,,,
+210,First Aid / Accidents,First aid boxes not available anywhere on site ,Alert,30 days,Follow Up
+211,First Aid / Accidents,First aid boxes not available in certain areas ,Caution,,
+212,First Aid / Accidents,First aid box available but contents are missing / contents out of date or otherwise inadequate ,Optimal,,
+213,First Aid / Accidents,First aiders are easily identifiable by uniform,,,
+214,First Aid / Accidents,No first aiders ,Alert,30 days,Follow Up
+215,First Aid / Accidents,Inadequate training for first aiders,Caution,30 days,Follow Up
+216,First Aid / Accidents,"First aiders in place but not enough for the size of site including not covering all shifts, not known to workers ",Optimal,,
+217,First Aid / Accidents,First aiders trained with relevant up-to-date first aid qualifications / accAlertitations,,,
+218,First Aid / Accidents,First aid kits are available but boxes are locked or not accessible ,Optimal,,
+219,Worker Health,Pregnant workers working in unsafe / unsuitable conditions ,Alert,30 days,Follow Up
+220,Worker Health,Risk assessment for vulnerable workers did not include all appropriate e.g. pregnant workers ,Caution,,
+221,Worker Health,Management lack knowledge of risks and potential hazards (e.g. that chemicals present to human health),Alert,30 days,Follow Up
+222,Worker Health,"Overcrowded work  stations e.g. insufficient space per person as requiAlert by law, including 'breathing space' ",Caution,,
+223,Worker Health,No / inadequate risk assessment done to cover occupational health and safety ,Caution,,
+224,Hygiene Facilities & Housekeeping,No rest area,Caution,,
+225,Worker Health,Job rotation to prevent upper limb disorder,,,
+226,Worker Health,Good HIV / AIDS policy,,,
+227,Worker Health,Appropriate procedures to manage HIV / Aids e.g. procedure  for accidents ,,,
+228,Worker Health,No nurse on site as requiAlert by law,Alert,30 days,Follow Up
+229,Worker Health,"Nurse on site, but doesn't cover all necessary shifts / lack of training / not enough nurses for the size of site ",Caution,,
+230,Worker Health,Doctor / part time doctor on site ,,,
+231,Worker Health,Onsite medical centre,,,
+232,Worker Health,No / inadequate medical facilities which does not meet legal requirements ,Alert,30 days,Follow Up
+233,Worker Health,No policy / procedure for the prevention of alcohol / drug abuse at the site ,Optimal,,
+234,Worker Health,No / inadequate regular medical examinations for juvenile workers where a legal requirement ,Alert,30 days,Follow Up
+235,Worker Health,No medical examinations / regular occupational health checks including disease checks of workers in hazardous situations e.g. noise / chemicals / dust ,Caution,,
+236,Worker Health,Inadequate / isolated failure in conducting medical examinations/ occupational health checks of workers in hazardous situations e.g. noise / chemicals ,Optimal,,
+237,Worker Health,Lack of records / missing documentation for medical examinations / occupational health checks of workers in hazardous situations ,Caution,,
+238,Worker Health,"Visits by other health professionals e.g. physiotherapists, dentists ",,,
+239,Worker Health,"Ergonomic support not given to employees adequate to their job including mats for standing, back rest for seats, other materials to support ",Optimal,,
+240,First Aid / Accidents,Evidence of serious worker injuries as a result of risk to life or limb ,Emergency,Immediate,
+241,First Aid / Accidents,Workplace traffic management system / roads etc. is unsafe or inadequate ,Caution,,
+242,First Aid / Accidents,Workers' transport to and from work is unsafe or inadequate ,Alert,30 days,Follow Up
+243,First Aid / Accidents,Workplace vehicles are unsafe ,Alert,30 days,Follow Up
+244,Hygiene Facilities & Housekeeping,Boxed goods storage not in line with legal requirements (e.g. too high),Caution,,
+245,Hygiene Facilities & Housekeeping,Materials / rubbish / other waste stoAlert in unacceptable areas e.g. stairwell,Caution,,
+246,Hygiene Facilities & Housekeeping,Combustible materials stoAlert in unacceptable areas e.g. stairwell,Alert,30 days,Follow Up
+247,Hygiene Facilities & Housekeeping,No secure facilities for workers to store personal effects while working,Optimal,,
+248,Hygiene Facilities & Housekeeping,No toilet doors ,Caution,,
+249,Hygiene Facilities & Housekeeping,Toilets unhygienic and not clean ,Caution,,
+250,Hygiene Facilities & Housekeeping,"Toilets not meeting minimum requirements, numbers, access, gender split etc. ",Caution,,
+251,Hygiene Facilities & Housekeeping,No / insufficient availability of properly equipped hand wash sinks ,Caution,,
+252,Hygiene Facilities & Housekeeping,Regular kitchen personnel health check,,,
+253,Hygiene Facilities & Housekeeping,No / inadequate health checks for kitchen personnel,Caution,,
+254,Hygiene Facilities & Housekeeping,Canteen provided but insufficient for worker numbers ,Optimal,,
+255,Hygiene Facilities & Housekeeping,No canteen facility provided as per local law,Alert,30 days,Follow Up
+256,Hygiene Facilities & Housekeeping,Canteen provision insufficient or does not meet legal requirements e.g. insufficient furniture ,Caution,,
+257,Hygiene Facilities & Housekeeping,No / inadequate hygiene checks and / or catering licence in the canteen ,Caution,,
+258,Hygiene Facilities & Housekeeping,No / inadequate testing of water for potability ,Caution,,
+259,Hygiene Facilities & Housekeeping,No / inadequate records of testing water for potability ,Caution,,
+260,Hygiene Facilities & Housekeeping,No/ inadequate availability of  clean drinking water (that meets the World Health Organisation standard for potable water),Alert,30 days,Follow Up
+261,Hygiene Facilities & Housekeeping,Isolated lapses in records of water testing for potability ,Optimal,,
+262,Hygiene Facilities & Housekeeping,Rest facilities in poor condition ,Optimal,,
+263,Hygiene Facilities & Housekeeping,Workstations and work areas are untidy creating a moderate risk of injury,Optimal,,
+264,Hygiene Facilities & Housekeeping,Workstations and work areas are untidy creating a serious risk of injury,Caution,,
+265,Hygiene Facilities & Housekeeping,Presence of a well-functioning hygiene management system e.g. hygiene committee in place ,,,
+266,Hygiene Facilities & Housekeeping,Exceptionally clean facility compaAlert with local norms ,,,
+267,Accommodation Fire Safety,No / inadequate means of summoning emergency services,Alert,30 days,Follow Up
+268,Accommodation Fire Safety,No / inadequate records of fire drill training,Alert,30 days,Follow Up
+269,Accommodation Fire Safety,No / inadequate emergency lighting,Alert,30 days,Follow Up
+270,Accommodation Fire Safety,No fire exits at site including only one exit ,Alert,30 days,Follow Up
+271,Accommodation Fire Safety,"Some fire exits, but not enough for size of site / number of employees e.g. only one feasible and usable exit",Alert,30 days,Follow Up
+272,Accommodation Fire Safety,"No / inadequate fire exits due to building design / construction e.g. width, fire doors opening inwards / incorrect direction of evacuation flow / sliding doors",Alert,,
+273,Accommodation Fire Safety,No training in use of fire fighting equipment,Caution,,
+274,Accommodation Fire Safety,No fire fighting equipment,Emergency,Immediate,
+275,Accommodation Fire Safety,Inadequate fire fighting equipment,Alert,30 days,Follow Up
+276,Accommodation Fire Safety,No emergency exit signs,Alert,30 days,Follow Up
+277,Accommodation Fire Safety,Inadequate emergency exit signs,Caution,,
+278,Accommodation Fire Safety,No fire alarms,Alert,30 days,Follow Up
+279,Accommodation Fire Safety,Inadequate fire alarms,Alert,,
+280,Accommodation Fire Safety,"No / inadequate fire drill training conducted (e.g. not conducted outside of daylight hours, not all workers had taken part)",Caution,,
+281,Accommodation Fire Safety,No / inadequate communication of fire plans (e.g. not displayed properly),Caution,,
+282,Accommodation Fire Safety,No testing and monitoring of fire alarms at regular intervals,Caution,,
+283,Accommodation Living Conditions,The facility lacks the permits and certificates requiAlert by local law,Alert,30 days,Follow Up
+284,Accommodation Living Conditions,Serious structural issues at workers' accommodation (immediate risk of serious injury or death),Emergency,Immediate,
+285,Accommodation Living Conditions,"Non-serious structural issue at workers' accomodation (e.g. broken windows, small cracks, peeling paint etc.)",Caution,,
+286,Accommodation Living Conditions,Accommodation not adequately separated from production areas,Alert,30 days,Follow Up
+287,Accommodation Living Conditions,"Accomodation is not a permanent structure e.g. tents, caravans, huts",Caution,,
+288,Accommodation Living Conditions,Accommodation used to store hazardous materials ,Alert,30 days,Follow Up
+289,Accommodation Living Conditions,Accommodation building not weatherproof,Alert,30 days,Follow Up
+290,Accommodation Living Conditions,"Building does not have access to electricity, water or other basic amenities",Alert,30 days,Follow Up
+291,Accommodation Living Conditions,Building presents a risk to worker health e.g. mould / asbestos etc. ,Alert,30 days,Follow Up
+292,Accommodation Living Conditions,"Minor issues with state of repair (e.g. broken windows, small cracks, peeling paint etc. )",Caution,,
+293,Accommodation Living Conditions,Unsafe means of travelling between accommodation and sites of work,Caution,,
+294,Accommodation Living Conditions,No / inadequate normal lighting,Alert,30 days,Follow Up
+295,Accommodation Living Conditions,"No / inadequate temperature control in accommodation  (e.g. air-conditioning, fans)",Caution,,
+296,Accommodation Living Conditions,Unsafe electrical wiring and other electrical equipment,Alert,30 days,Follow Up
+297,Accommodation Living Conditions,Accommodation has no canteen facility / eating area or no basic appliances for cooking,Alert,30 days,Follow Up
+298,Accommodation Living Conditions,Accommodation has inadequate canteen facility /  eating area or inadequate appliances for cooking,Caution,,
+299,Accommodation Living Conditions,Workers have no / inadequate beds or mattresses,Caution,,
+300,Accommodation Living Conditions,No appropriate gender segregation in sleeping facilities ,Caution,,
+301,Accommodation Living Conditions,No washing facilities (e.g. showers or baths),Alert,30 days,Follow Up
+302,Accommodation Living Conditions,Appropriate gender segregation in washing and toilet facilities,,,
+303,Accommodation Living Conditions,No gender segregation in washing and toilet facilities,Caution,,
+304,Accommodation Living Conditions,No privacy in washing and toilet facilities,Caution,,
+305,Accommodation Living Conditions,No / inadequate accommodation for families (including couples without children),Optimal,,
+306,Accommodation Living Conditions,Unsanitary and unhygienic conditions in sleeping areas / dormitories,Caution,,
+307,Accommodation Living Conditions,Unsanitary and unhygienic conditions in accommodation washing / toilet areas and / or kitchen / dining area,Caution,,
+308,Accommodation Living Conditions,Unsanitary storage / handling of waste / rubbish / waste water ,Alert,30 days,Follow Up
+309,Accommodation Living Conditions,Pest control problems,Caution,,
+310,Accommodation Living Conditions,No / inadequate access to drinking water,Alert,30 days,Follow Up
+311,Accommodation Living Conditions,No / inadequate access to hot water ,Optimal,,
+312,Accommodation Living Conditions,No / inadequate cleaning of workers' accommodation,Caution,,
+313,Accommodation Living Conditions,First aid kits not available in workers' accommodation,Caution,,
+314,Accommodation Living Conditions,Well equipped first aid kits available in workers' accommodation,,,
+315,Accommodation Living Conditions,Overcrowding in dormitories,Caution,,
+316,Accommodation Living Conditions,No / inadequate records of who lives in workers' accommodation,Optimal,,
+317,Accommodation Living Conditions,Each individual does not have adequate and secure storage for personal possessions ,Caution,,
+318,Accommodation Living Conditions,No / inadequate security in workers' accommodation,Caution,,
+319,Accommodation Living Conditions,Unfair / excessive rents for accommodation compaAlert with local norms,Alert,30 days,Follow Up
+320,Accommodation Living Conditions,"Recreational facilities in poor condition e.g. no equipment, no cleaning, unhygienic ",Optimal,,
+321,Accommodation Living Conditions,"Good recreational facilities or events for workers and their families (e.g. sports, gym, entertainment)",,,
+322,Accommodation Living Conditions,Accommodation well above local standards,,,
+323,Accommodation Living Conditions,Free or subsidised food for workers in accommodation,,,
+324,Accommodation Living Conditions,Free or subsidised accommodation for workers,,,
+325,Accommodation Living Conditions,Free or subsidised accommodation for workers' families,,,

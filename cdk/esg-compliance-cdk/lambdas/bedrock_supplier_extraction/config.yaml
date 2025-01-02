@@ -1,0 +1,6 @@
+layers:
+  - pandas
+  - textractor
+  - pyyaml
+timeout: 300
+memory: 1024

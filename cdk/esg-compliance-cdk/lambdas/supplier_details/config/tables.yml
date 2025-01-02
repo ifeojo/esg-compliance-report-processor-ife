@@ -1,0 +1,55 @@
+# Schemas should follow the format:
+# Table name:
+#   schema:
+#     - column: [Parent Column, Child Column, ...]
+#     - type: pd.datatype
+
+# Worker analysis schema
+Worker analysis:
+  schema:
+    - column: ['Worker Analysis', '', '']
+      type: String
+    - column: ['Worker Analysis', 'Local', 'Permanent']
+      type: Int64
+    - column: ['Worker Analysis', 'Local', 'Temporary']
+      type: Int64
+    - column: ['Worker Analysis', 'Local', 'Agency']
+      type: Int64
+    - column: ['Worker Analysis', 'Migrant*', 'Permanent']
+      type: Int64
+    - column: ['Worker Analysis', 'Migrant*', 'Temporary']
+      type: Int64
+    - column: ['Worker Analysis', 'Migrant*', 'Agency']
+      type: Int64
+    - column: ['Worker Analysis', 'Home workers', '']
+      type: Int64
+    - column: ['Worker Analysis', 'Total', '']
+      type: Int64
+
+Audit attendance:
+  schema:
+    - column: ['Audit attendance', '',]
+      type: String
+    - column: ['Management', 'Senior management']
+      type: String
+    - column: ['Worker representatives', 'Worker committee representatives']
+      type: String
+    - column: ['Worker representatives', 'Union representatives']
+      type: String
+
+Summary of findings:
+  schema:
+    - column: ['Issue', '']
+      type: String
+    - column: ['Area of Non-Conformity', 'ETI']
+      type: String
+    - column: ['Area of Non-Conformity', 'Local Law']
+      type: String
+    - column: ['Number of issues', 'NC']
+      type: Int64
+    - column: ['Number of issues', 'Obs']
+      type: Int64
+    - column: ['Number of issues', 'GE']
+      type: Int64
+    - column: ['Findings', '']
+      type: String

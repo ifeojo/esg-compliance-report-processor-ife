@@ -1,0 +1,11 @@
+layers:
+  - boto3
+  - pymupdf
+  - pyyaml
+timeout: 120
+memory: 1024
+role_policy:
+  - actions:
+    - s3:*
+    resources:
+    - "*"

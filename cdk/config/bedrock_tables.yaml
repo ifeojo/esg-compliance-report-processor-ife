@@ -1,0 +1,54 @@
+audit details:
+  structure:
+    title: audit details
+    key_terms:
+  queries:
+    - Business Name
+    - Site Name
+    - Site Address
+    - Country
+    - Site Contact
+    - Site Phone
+    - Site Email
+    - Date of Audit
+audit company name:
+  structure:
+    title:
+    columns: 1
+    key_terms:
+      - audit company name
+  queries:
+    - Audit Company Name
+auditor team:
+  structure:
+    title: auditor team
+    key_terms:
+      - lead auditor
+  queries:
+    - Lead Auditor
+    - Additional Auditors
+    - Interviewer
+    - Report Writer
+site details:
+  structure:
+    title: site details
+    key_terms:
+      - company name
+      - gps
+  queries:
+    - Company Name
+    - GPS Address
+    - Latitude
+    - Longitude
+audit parameters:
+  structure:
+    title: audit parameters
+    key_terms:
+      - audit type
+  queries:
+    - Audit type
+    - Was The Audit Announced
+# test_table:
+#   structure:
+#     title:
+#     key_terms:
