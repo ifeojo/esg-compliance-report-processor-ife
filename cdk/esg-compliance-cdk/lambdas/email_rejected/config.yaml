@@ -1,0 +1,4 @@
+layers:
+  - pyhtml
+timeout: 300
+memory: 1024

@@ -1,0 +1,44 @@
+audit_details:
+  search_terms:
+    - audit details
+    - site name
+    - date of audit
+
+audit_company:
+  search_terms:
+    - audit company name
+
+audit_team:
+  search_terms:
+    - lead auditor
+    - apsca number
+
+summary:
+  search_terms:
+    - summary of findings
+    - universal rights
+    - management systems
+    # - nc
+    # - obs
+    # - ge
+    # - local law
+    # - issue
+    # - issue
+    # - area of non-conformity
+
+site_details:
+  search_terms:
+    - company name
+    - site name
+    - gps
+
+audit_parameters:
+  search_terms:
+    - audit type
+    - announced
+
+worker_analysis:
+  search_terms:
+    - worker analysis
+    - local
+    - migrant

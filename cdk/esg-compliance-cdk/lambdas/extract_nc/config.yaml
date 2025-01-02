@@ -1,0 +1,12 @@
+layers:
+  - textractor
+  - fuzzywuzzy 
+  - pymupdf
+timeout: 300
+memory: 512
+role_policy:
+  - actions:
+    - s3:*
+    - textract:*
+    resources:
+    - "*"

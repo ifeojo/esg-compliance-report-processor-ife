@@ -1,0 +1,22 @@
+section3:
+  clause: 3 - Working conditions are safe and hygienic
+  search_terms:
+  - working conditions are safe and hygienic
+  - current systems and evidence examined
+  selected: 'yes'
+section4:
+  clause: 4 - Child labour shall not be used
+  search_terms:
+  - child labour shall not be used
+  - current systems and evidence examined
+  selected: 'yes'
+section5:
+  clause: 5 - Living wages are paid
+  search_terms:
+  - living wages are paid
+  - current systems and evidence examined
+  selected: 'yes'
+section6:
+  search_terms:
+  - working hours are not excessive
+  - current systems and evidence examined

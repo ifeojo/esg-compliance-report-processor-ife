@@ -1,0 +1,17 @@
+*.swp
+package-lock.json
+__pycache__
+**/__pychache__
+.pytest_cache
+.venv
+*.egg-info
+bandit-env
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+python
+**/python/
+
+.DS_Store

@@ -1,0 +1,9 @@
+streamlit 
+boto3
+pandas
+numpy
+pyyaml
+s3fs
+streamlit-pdf-viewer
+st-files-connection
+streamlit-cognito-auth
