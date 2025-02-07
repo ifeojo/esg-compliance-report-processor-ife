@@ -17,6 +17,9 @@ The system workflow is as follows:
 7. The Streamlit frontend is secured with Amazon Cognito and an integrated OIDC identity provider.
 8. The application is deployed on an AWS Fargate cluster behind an Application Load Balancer for scalability and availability.
 
+Below is a quick demo of the UI showcasing report processing and compliance insights.
+![GIF](assets/workflow/compliace_report.gif)
+
 ## **2. Prerequisites**
 
 ### **Cognito Stack**
